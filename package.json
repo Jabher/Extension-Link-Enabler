@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/Zanibas/Extension-Link-Enabler#readme",
   "dependencies": {
-    "extensionizer": "^1.0.0"
+    "extensionizer": "^1.0.1"
   }
 }
